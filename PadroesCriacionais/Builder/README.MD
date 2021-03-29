@@ -23,18 +23,18 @@ O padrão organiza a construção de objetos em uma série de etapas,permitindo 
 Builders diferentes executam a mesma tarefa de várias maneiras.
 Por exemplo, imagine um builder que constrói tudo de madeira e vidro, um segundo builder que constrói tudo com pedra e ferro, e um terceiro que usa ouro e diamantes. 
 
-![Representação do Builder](.\Builder.png)
+![Representação do Builder](./Builder.png)
 
 ## Aplicabilidade :
 
 #### Use o padrão Builder para se livrar de um “construtor monstro”.
-![Representação do Builder](.\Bug1.png)
+![Representação do Builder](./Bug1.png)
 Digamos que você tenha um construtor com dez parâmetros opcionais. Chamar um monstro desses é muito inconveniente; portanto, você sobrecarrega o construtor e cria diversas versões curtas com menos parâmetros. Esses construtores ainda se referem ao principal, passando alguns valores padrão para qualquer parâmetro omitido.
 
 O padrão Builder permite que você construa objetos passo a passo, usando apenas aquelas etapas que você realmente precisa. Após implementar o padrão, você não vai mais precisar amontoar dúzias de parâmetros em seus construtores.
 
 #### Use o padrão Builder quando você quer que seu código seja capaz de criar diferentes representações do mesmo produto (por exemplo, casas de pedra e madeira).
-![Representação do Builder](.\Bug2.png)
+![Representação do Builder](./Bug2.png)
 O padrão Builder pode ser aplicado quando a construção de várias representações do produto envolvem etapas similares que diferem apenas nos detalhes.
 
 A interface base do builder define todas as etapas de construção possíveis, e os buildrs concretos implementam essas etapas para construir representações particulares do produto. Enquanto isso, a classe diretor guia a ordem de construção.

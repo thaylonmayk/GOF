@@ -17,7 +17,7 @@ Use o Abstract Factory quando seu código precisa trabalhar com diversas famíli
 
 Sugere é declarar explicitamente interfaces para cada produto distinto da família de produtos (ex: cadeira, sofá ou mesa de centro). Então você pode fazer todas as variantes dos produtos seguirem essas interfaces. Por exemplo, todas as variantes de cadeira podem implementar a interface Cadeira; todas as variantes de mesa de centro podem implementar a interface MesaDeCentro, e assim por diante.
 
-![Representação do Abstract Factory](.\AbstractFactory.png)
+![Representação do Abstract Factory](./AbstractFactory.png)
 
 ##Aplicabilidade :
 

@@ -25,7 +25,7 @@ Definir uma interface para criar um objeto, mas deixar as subclasses decidirem q
 À primeira vista, essa mudança pode parecer sem sentido: apenas mudamos a chamada do construtor de uma parte do programa para outra. No entanto, considere o seguinte: agora você pode sobrescrever o método fábrica em uma subclasse e alterar a classe de produtos que estão sendo criados pelo método.
 Porém, há uma pequena limitação: as subclasses só podem retornar tipos diferentes de produtos se esses produtos tiverem uma classe ou interface base em comum. Além disso, o método fábrica na classe base deve ter seu tipo de retorno declarado como essa interface.
 
-![Solution do Factory Method](.\FactoryMethodSolution.png)
+![Solution do Factory Method](./FactoryMethodSolution.png)
 
 ## Aplicabilidade:
 
@@ -33,9 +33,9 @@ Use o Factory Method quando não souber de antemão os tipos e dependências exa
 O Factory Method separa o código de construção do produto do código que realmente usa o produto. Portanto, é mais fácil estender o código de construção do produto independentemente do restante do código.
 Por exemplo, para adicionar um novo tipo de produto à aplicação, só será necessário criar uma nova subclasse criadora e substituir o método fábrica nela.
 
-![Representação do Factory Method](.\FactoryMethod.png)
+![Representação do Factory Method](./FactoryMethod.png)
 
-![Exemplo do Factory Method](.\FactoryMethod2.png)
+![Exemplo do Factory Method](./FactoryMethod2.png)
 
 ## Prós:
 

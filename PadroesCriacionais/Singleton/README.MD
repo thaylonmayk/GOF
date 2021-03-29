@@ -28,9 +28,9 @@ Ao contrário das variáveis globais, o padrão Singleton garante que há apenas
 
 Observe que você sempre pode ajustar essa limitação e permitir a criação de qualquer número de instâncias singleton. O único pedaço de código que requer mudanças é o corpo do método getInstance.
 
-![Representação do Singleton](.\Singleton.png)
+![Representação do Singleton](./Singleton.png)
 
-![Exemplo do Singleton](.\Singleton2.png)
+![Exemplo do Singleton](./Singleton2.png)
 
 ## Prós:
 * A certeza que uma classe só terá uma única instância;
