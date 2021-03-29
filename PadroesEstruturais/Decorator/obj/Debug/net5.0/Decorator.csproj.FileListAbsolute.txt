@@ -1,0 +1,16 @@
+C:\src\Padroes estruturais\Decorator\bin\Debug\net5.0\Decorator.exe
+C:\src\Padroes estruturais\Decorator\bin\Debug\net5.0\Decorator.deps.json
+C:\src\Padroes estruturais\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.json
+C:\src\Padroes estruturais\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.dev.json
+C:\src\Padroes estruturais\Decorator\bin\Debug\net5.0\Decorator.dll
+C:\src\Padroes estruturais\Decorator\bin\Debug\net5.0\ref\Decorator.dll
+C:\src\Padroes estruturais\Decorator\bin\Debug\net5.0\Decorator.pdb
+C:\src\Padroes estruturais\Decorator\obj\Debug\net5.0\Decorator.csprojAssemblyReference.cache
+C:\src\Padroes estruturais\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes estruturais\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+C:\src\Padroes estruturais\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+C:\src\Padroes estruturais\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+C:\src\Padroes estruturais\Decorator\obj\Debug\net5.0\Decorator.dll
+C:\src\Padroes estruturais\Decorator\obj\Debug\net5.0\ref\Decorator.dll
+C:\src\Padroes estruturais\Decorator\obj\Debug\net5.0\Decorator.pdb
+C:\src\Padroes estruturais\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i11SnP3KAqezLwASarrsrF59YYZjevZ5U5nA5fve+gCGBcpVZUb9xThUwdS0olz8wzepZdQ05mAy1KFauasT8A==",
+  "success": true,
+  "projectFilePath": "c:\\src\\Padroes estruturais\\Flyweight\\Flyweight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thaylon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
