@@ -1,0 +1,16 @@
+C:\src\Padroes criacionais\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\src\Padroes criacionais\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\src\Padroes criacionais\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\src\Padroes criacionais\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\src\Padroes criacionais\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\src\Padroes criacionais\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\src\Padroes criacionais\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\src\Padroes criacionais\Prototype\obj\Debug\net5.0\Prototype.csprojAssemblyReference.cache
+C:\src\Padroes criacionais\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes criacionais\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\src\Padroes criacionais\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\src\Padroes criacionais\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\src\Padroes criacionais\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\src\Padroes criacionais\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\src\Padroes criacionais\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\src\Padroes criacionais\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\bin\Debug\net5.0\Singleton seguro para threads.exe
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\bin\Debug\net5.0\Singleton seguro para threads.deps.json
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\bin\Debug\net5.0\Singleton seguro para threads.runtimeconfig.json
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\bin\Debug\net5.0\Singleton seguro para threads.runtimeconfig.dev.json
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\bin\Debug\net5.0\Singleton seguro para threads.dll
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\bin\Debug\net5.0\ref\Singleton seguro para threads.dll
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\bin\Debug\net5.0\Singleton seguro para threads.pdb
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\obj\Debug\net5.0\Singleton seguro para threads.csprojAssemblyReference.cache
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\obj\Debug\net5.0\Singleton seguro para threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\obj\Debug\net5.0\Singleton seguro para threads.AssemblyInfoInputs.cache
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\obj\Debug\net5.0\Singleton seguro para threads.AssemblyInfo.cs
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\obj\Debug\net5.0\Singleton seguro para threads.csproj.CoreCompileInputs.cache
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\obj\Debug\net5.0\Singleton seguro para threads.dll
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\obj\Debug\net5.0\ref\Singleton seguro para threads.dll
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\obj\Debug\net5.0\Singleton seguro para threads.pdb
+C:\src\Padroes criacionais\Singleton\Singleton seguro para threads\obj\Debug\net5.0\Singleton seguro para threads.genruntimeconfig.cache
