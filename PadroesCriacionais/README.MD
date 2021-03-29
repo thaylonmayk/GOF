@@ -11,13 +11,13 @@ Eles disponibilizam uma maneira para criar objetos ocultando os detalhes da sua 
 
 ## [Criacional](README.MD)
 
-### [Singleton](Singleton\README.MD)
+### [Singleton](Singleton/README.MD)
 Assegura que somente um objeto de uma determinada classe seja criado em todo o projeto;
-### [Abstract Factory](AbstractFactory\README.md)
+### [Abstract Factory](AbstractFactory/README.md)
 Permite que um cliente crie famílias de objetos sem especificar suas classes concretas;
-### [Builder](Builder\README.MD)
+### [Builder](Builder/README.MD)
 Encapsular a construção de um produto e permitir que ele seja construído em etapas;
-### [Prototype](Prototype\README.MD)
+### [Prototype](Prototype/README.MD)
 Permite você criar novas instancias simplesmente copiando instancias existentes;
-### [Factory Mathod](FactoryMethod\README.MD)
+### [Factory Mathod](FactoryMethod/README.MD)
 As subclasses decidem quais classes concretas serão criadas;

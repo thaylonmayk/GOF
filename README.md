@@ -72,57 +72,57 @@ Mas lembre-se que os padrões de projetos não são uma varinha mágica que vai 
 
 # Navegue entre eles
 
-## [Criacional](PadroesCriacionais\README.MD)
+## [Criacional](PadroesCriacionais/README.MD)
 
-### [Singleton](PadroesCriacionais\Singleton\README.MD)
+### [Singleton](PadroesCriacionais/Singleton/README.MD)
 Assegura que somente um objeto de uma determinada classe seja criado em todo o projeto;
-### [Abstract Factory](PadroesCriacionais\AbstractFactory\README.md)
+### [Abstract Factory](PadroesCriacionais/AbstractFactory/README.md)
 Permite que um cliente crie famílias de objetos sem especificar suas classes concretas;
-### [Builder](PadroesCriacionais\Builder\README.MD)
+### [Builder](PadroesCriacionais/Builder/README.MD)
 Encapsular a construção de um produto e permitir que ele seja construído em etapas;
-### [Prototype](PadroesCriacionais\Prototype\README.MD)
+### [Prototype](PadroesCriacionais/Prototype/README.MD)
 Permite você criar novas instancias simplesmente copiando instancias existentes;
-### [Factory Mathod](PadroesCriacionais\FactoryMethod\README.MD)
+### [Factory Mathod](PadroesCriacionais/FactoryMethod/README.MD)
 As subclasses decidem quais classes concretas serão criadas;
 
-## [Estruturais](PadroesEstruturais\README.MD)
+## [Estruturais](PadroesEstruturais/README.MD)
 
-### [Decorator](PadroesEstruturais\Decorator\README.MD)
+### [Decorator](PadroesEstruturais/Decorator/README.MD)
 Envelopa um objeto para fornecer novos comportamentos;
-### [Proxy](PadroesEstruturais\Proxy)
+### [Proxy](PadroesEstruturais/Proxy)
 Envelopa um objeto para controlar o acesso a ele;
-### [FlyWeigth](PadroesEstruturais\Flyweight\README.md)
+### [FlyWeigth](PadroesEstruturais/Flyweight/README.md)
 Uma instancia de uma classe pode ser usada para fornecer muitas “instancias virtuais”;
-### [Facade](PadroesEstruturais\Facade\README.MD)
+### [Facade](PadroesEstruturais/Facade/README.MD)
 Simplifica a interface de um conjunto de classes;
-### [Composite](PadroesEstruturais\Composite\README.MD)
+### [Composite](PadroesEstruturais/Composite/README.MD)
 Os clientes tratam as coleções de objetos e os objetos individuais de maneira uniforme;
-### [Bridge](PadroesEstruturais\Bridge\README.MD)
+### [Bridge](PadroesEstruturais/Bridge/README.MD)
 Permite criar uma ponte para variar não apenas a sua implementação, como também as suas abstrações;
-### [Adapter](PadroesEstruturais\Adapter\README.MD)
+### [Adapter](PadroesEstruturais/Adapter/README.MD)
 Envelopa um objeto e fornece a ele uma interface diferente;
 
-## [Comportamental](PadroesComportamentais\README.MD)
+## [Comportamental](PadroesComportamentais/README.MD)
 
-### [Template Method](PadroesComportamentais\TemplateMethod\README.MD)
+### [Template Method](PadroesComportamentais/TemplateMethod/README.MD)
 As subclasses decidem como implementar os passos de um algoritimo;
-### [Visitor](PadroesComportamentais\Visitor\README.MD)
+### [Visitor](PadroesComportamentais/Visitor/README.MD)
 Permite acrescentar novos recursos a um composto de objetos e o encapsulamento não é importante;
-### [Command](PadroesComportamentais\Command\README.MD)
+### [Command](PadroesComportamentais/Command/README.MD)
 Encapsula uma solicitação como um objeto;
-### [Strategy](PadroesComportamentais\Strategy\README.MD)
+### [Strategy](PadroesComportamentais/Strategy/README.MD)
 Encapsula comportamentos intercambiáveis e usa a delegação para decidir qual deles será usado;
-### [Chair of Responsability](PadroesComportamentais\ChainOfResponsibility\README.MD)
+### [Chair of Responsability](PadroesComportamentais/ChainOfResponsibility/README.MD)
 Permite dar a mais de um objeto a oportunidade de processar uma solicitação;
-### [Iterator](PadroesComportamentais\Iterator\README.MD)
+### [Iterator](PadroesComportamentais/Iterator/README.MD)
 Fornece uma maneira de acessar seqüencialmente uma coleção de objetos sem expor a sua implementação;
-### [Mediator](PadroesComportamentais\Mediator\README.MD)
+### [Mediator](PadroesComportamentais/Mediator/README.MD)
 Centraliza operações complexas de comunicação e controle entre objetos relacionados;
-### [Memento](PadroesComportamentais\Memento\README.MD)
+### [Memento](PadroesComportamentais/Memento/README.MD)
 Permite restaurar um objeto a um dos seus estados prévios, por exemplo, quando o usuário seleciona um “desfazer”;
-### [Interpreter](PadroesComportamentais\Interpreter\README.MD)
+### [Interpreter](PadroesComportamentais/Interpreter/README.MD)
 Permite construir um intérprete para uma linguagem;
-### [State](PadroesComportamentais\State\README.MD)
+### [State](PadroesComportamentais/State/README.MD)
 Encapsula comportamentos baseados em estados e usa a delegação para alternar comportamentos;
-### [Observer](PadroesComportamentais\Observer\README.MD)
+### [Observer](PadroesComportamentais/Observer/README.MD)
 Permite notificar outros objetos quando ocorre uma mudança de estado.
