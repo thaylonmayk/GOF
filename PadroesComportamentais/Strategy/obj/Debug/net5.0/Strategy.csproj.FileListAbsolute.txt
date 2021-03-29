@@ -1,0 +1,16 @@
+C:\src\Padroes comportamentais\Strategy\bin\Debug\net5.0\Strategy.exe
+C:\src\Padroes comportamentais\Strategy\bin\Debug\net5.0\Strategy.deps.json
+C:\src\Padroes comportamentais\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\src\Padroes comportamentais\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\src\Padroes comportamentais\Strategy\bin\Debug\net5.0\Strategy.dll
+C:\src\Padroes comportamentais\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+C:\src\Padroes comportamentais\Strategy\bin\Debug\net5.0\Strategy.pdb
+C:\src\Padroes comportamentais\Strategy\obj\Debug\net5.0\Strategy.csprojAssemblyReference.cache
+C:\src\Padroes comportamentais\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes comportamentais\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\src\Padroes comportamentais\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\src\Padroes comportamentais\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\src\Padroes comportamentais\Strategy\obj\Debug\net5.0\Strategy.dll
+C:\src\Padroes comportamentais\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+C:\src\Padroes comportamentais\Strategy\obj\Debug\net5.0\Strategy.pdb
+C:\src\Padroes comportamentais\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache

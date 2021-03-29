@@ -1,0 +1,16 @@
+C:\src\Padroes comportamentais\Memento\obj\Debug\net5.0\Memento.csprojAssemblyReference.cache
+C:\src\Padroes comportamentais\Memento\obj\Debug\net5.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes comportamentais\Memento\obj\Debug\net5.0\Memento.AssemblyInfoInputs.cache
+C:\src\Padroes comportamentais\Memento\obj\Debug\net5.0\Memento.AssemblyInfo.cs
+C:\src\Padroes comportamentais\Memento\obj\Debug\net5.0\Memento.csproj.CoreCompileInputs.cache
+C:\src\Padroes comportamentais\Memento\bin\Debug\net5.0\Memento.exe
+C:\src\Padroes comportamentais\Memento\bin\Debug\net5.0\Memento.deps.json
+C:\src\Padroes comportamentais\Memento\bin\Debug\net5.0\Memento.runtimeconfig.json
+C:\src\Padroes comportamentais\Memento\bin\Debug\net5.0\Memento.runtimeconfig.dev.json
+C:\src\Padroes comportamentais\Memento\bin\Debug\net5.0\Memento.dll
+C:\src\Padroes comportamentais\Memento\bin\Debug\net5.0\ref\Memento.dll
+C:\src\Padroes comportamentais\Memento\bin\Debug\net5.0\Memento.pdb
+C:\src\Padroes comportamentais\Memento\obj\Debug\net5.0\Memento.dll
+C:\src\Padroes comportamentais\Memento\obj\Debug\net5.0\ref\Memento.dll
+C:\src\Padroes comportamentais\Memento\obj\Debug\net5.0\Memento.pdb
+C:\src\Padroes comportamentais\Memento\obj\Debug\net5.0\Memento.genruntimeconfig.cache

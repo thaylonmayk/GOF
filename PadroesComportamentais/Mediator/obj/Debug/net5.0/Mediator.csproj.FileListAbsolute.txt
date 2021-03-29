@@ -1,0 +1,16 @@
+C:\src\Padroes comportamentais\Mediator\obj\Debug\net5.0\Mediator.csprojAssemblyReference.cache
+C:\src\Padroes comportamentais\Mediator\obj\Debug\net5.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes comportamentais\Mediator\obj\Debug\net5.0\Mediator.AssemblyInfoInputs.cache
+C:\src\Padroes comportamentais\Mediator\obj\Debug\net5.0\Mediator.AssemblyInfo.cs
+C:\src\Padroes comportamentais\Mediator\obj\Debug\net5.0\Mediator.csproj.CoreCompileInputs.cache
+C:\src\Padroes comportamentais\Mediator\bin\Debug\net5.0\Mediator.exe
+C:\src\Padroes comportamentais\Mediator\bin\Debug\net5.0\Mediator.deps.json
+C:\src\Padroes comportamentais\Mediator\bin\Debug\net5.0\Mediator.runtimeconfig.json
+C:\src\Padroes comportamentais\Mediator\bin\Debug\net5.0\Mediator.runtimeconfig.dev.json
+C:\src\Padroes comportamentais\Mediator\bin\Debug\net5.0\Mediator.dll
+C:\src\Padroes comportamentais\Mediator\bin\Debug\net5.0\ref\Mediator.dll
+C:\src\Padroes comportamentais\Mediator\bin\Debug\net5.0\Mediator.pdb
+C:\src\Padroes comportamentais\Mediator\obj\Debug\net5.0\Mediator.dll
+C:\src\Padroes comportamentais\Mediator\obj\Debug\net5.0\ref\Mediator.dll
+C:\src\Padroes comportamentais\Mediator\obj\Debug\net5.0\Mediator.pdb
+C:\src\Padroes comportamentais\Mediator\obj\Debug\net5.0\Mediator.genruntimeconfig.cache

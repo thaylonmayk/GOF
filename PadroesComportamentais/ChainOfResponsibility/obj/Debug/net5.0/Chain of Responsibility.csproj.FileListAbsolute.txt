@@ -1,0 +1,16 @@
+C:\src\Padroes comportamentais\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.csprojAssemblyReference.cache
+C:\src\Padroes comportamentais\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes comportamentais\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.AssemblyInfoInputs.cache
+C:\src\Padroes comportamentais\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.AssemblyInfo.cs
+C:\src\Padroes comportamentais\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.csproj.CoreCompileInputs.cache
+C:\src\Padroes comportamentais\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.exe
+C:\src\Padroes comportamentais\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.deps.json
+C:\src\Padroes comportamentais\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.runtimeconfig.json
+C:\src\Padroes comportamentais\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.runtimeconfig.dev.json
+C:\src\Padroes comportamentais\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.dll
+C:\src\Padroes comportamentais\Chain of Responsibility\bin\Debug\net5.0\ref\Chain of Responsibility.dll
+C:\src\Padroes comportamentais\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.pdb
+C:\src\Padroes comportamentais\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.dll
+C:\src\Padroes comportamentais\Chain of Responsibility\obj\Debug\net5.0\ref\Chain of Responsibility.dll
+C:\src\Padroes comportamentais\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.pdb
+C:\src\Padroes comportamentais\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.genruntimeconfig.cache

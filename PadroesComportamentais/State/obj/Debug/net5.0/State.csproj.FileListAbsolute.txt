@@ -1,0 +1,16 @@
+C:\src\Padroes comportamentais\State\obj\Debug\net5.0\State.csprojAssemblyReference.cache
+C:\src\Padroes comportamentais\State\obj\Debug\net5.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes comportamentais\State\obj\Debug\net5.0\State.AssemblyInfoInputs.cache
+C:\src\Padroes comportamentais\State\obj\Debug\net5.0\State.AssemblyInfo.cs
+C:\src\Padroes comportamentais\State\obj\Debug\net5.0\State.csproj.CoreCompileInputs.cache
+C:\src\Padroes comportamentais\State\bin\Debug\net5.0\State.exe
+C:\src\Padroes comportamentais\State\bin\Debug\net5.0\State.deps.json
+C:\src\Padroes comportamentais\State\bin\Debug\net5.0\State.runtimeconfig.json
+C:\src\Padroes comportamentais\State\bin\Debug\net5.0\State.runtimeconfig.dev.json
+C:\src\Padroes comportamentais\State\bin\Debug\net5.0\State.dll
+C:\src\Padroes comportamentais\State\bin\Debug\net5.0\ref\State.dll
+C:\src\Padroes comportamentais\State\bin\Debug\net5.0\State.pdb
+C:\src\Padroes comportamentais\State\obj\Debug\net5.0\State.dll
+C:\src\Padroes comportamentais\State\obj\Debug\net5.0\ref\State.dll
+C:\src\Padroes comportamentais\State\obj\Debug\net5.0\State.pdb
+C:\src\Padroes comportamentais\State\obj\Debug\net5.0\State.genruntimeconfig.cache

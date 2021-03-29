@@ -1,0 +1,16 @@
+C:\src\Padroes comportamentais\Observer\obj\Debug\net5.0\Observer.csprojAssemblyReference.cache
+C:\src\Padroes comportamentais\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes comportamentais\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+C:\src\Padroes comportamentais\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+C:\src\Padroes comportamentais\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+C:\src\Padroes comportamentais\Observer\bin\Debug\net5.0\Observer.exe
+C:\src\Padroes comportamentais\Observer\bin\Debug\net5.0\Observer.deps.json
+C:\src\Padroes comportamentais\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+C:\src\Padroes comportamentais\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+C:\src\Padroes comportamentais\Observer\bin\Debug\net5.0\Observer.dll
+C:\src\Padroes comportamentais\Observer\bin\Debug\net5.0\ref\Observer.dll
+C:\src\Padroes comportamentais\Observer\bin\Debug\net5.0\Observer.pdb
+C:\src\Padroes comportamentais\Observer\obj\Debug\net5.0\Observer.dll
+C:\src\Padroes comportamentais\Observer\obj\Debug\net5.0\ref\Observer.dll
+C:\src\Padroes comportamentais\Observer\obj\Debug\net5.0\Observer.pdb
+C:\src\Padroes comportamentais\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache

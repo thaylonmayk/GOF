@@ -1,0 +1,16 @@
+C:\src\Padroes comportamentais\Visitor\obj\Debug\net5.0\Visitor.csprojAssemblyReference.cache
+C:\src\Padroes comportamentais\Visitor\obj\Debug\net5.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes comportamentais\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfoInputs.cache
+C:\src\Padroes comportamentais\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfo.cs
+C:\src\Padroes comportamentais\Visitor\obj\Debug\net5.0\Visitor.csproj.CoreCompileInputs.cache
+C:\src\Padroes comportamentais\Visitor\bin\Debug\net5.0\Visitor.exe
+C:\src\Padroes comportamentais\Visitor\bin\Debug\net5.0\Visitor.deps.json
+C:\src\Padroes comportamentais\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.json
+C:\src\Padroes comportamentais\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.dev.json
+C:\src\Padroes comportamentais\Visitor\bin\Debug\net5.0\Visitor.dll
+C:\src\Padroes comportamentais\Visitor\bin\Debug\net5.0\ref\Visitor.dll
+C:\src\Padroes comportamentais\Visitor\bin\Debug\net5.0\Visitor.pdb
+C:\src\Padroes comportamentais\Visitor\obj\Debug\net5.0\Visitor.dll
+C:\src\Padroes comportamentais\Visitor\obj\Debug\net5.0\ref\Visitor.dll
+C:\src\Padroes comportamentais\Visitor\obj\Debug\net5.0\Visitor.pdb
+C:\src\Padroes comportamentais\Visitor\obj\Debug\net5.0\Visitor.genruntimeconfig.cache

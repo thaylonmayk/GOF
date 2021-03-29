@@ -1,0 +1,16 @@
+C:\src\Padroes comportamentais\Command\obj\Debug\net5.0\Command.csprojAssemblyReference.cache
+C:\src\Padroes comportamentais\Command\obj\Debug\net5.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Padroes comportamentais\Command\obj\Debug\net5.0\Command.AssemblyInfoInputs.cache
+C:\src\Padroes comportamentais\Command\obj\Debug\net5.0\Command.AssemblyInfo.cs
+C:\src\Padroes comportamentais\Command\obj\Debug\net5.0\Command.csproj.CoreCompileInputs.cache
+C:\src\Padroes comportamentais\Command\bin\Debug\net5.0\Command.exe
+C:\src\Padroes comportamentais\Command\bin\Debug\net5.0\Command.deps.json
+C:\src\Padroes comportamentais\Command\bin\Debug\net5.0\Command.runtimeconfig.json
+C:\src\Padroes comportamentais\Command\bin\Debug\net5.0\Command.runtimeconfig.dev.json
+C:\src\Padroes comportamentais\Command\bin\Debug\net5.0\Command.dll
+C:\src\Padroes comportamentais\Command\bin\Debug\net5.0\ref\Command.dll
+C:\src\Padroes comportamentais\Command\bin\Debug\net5.0\Command.pdb
+C:\src\Padroes comportamentais\Command\obj\Debug\net5.0\Command.dll
+C:\src\Padroes comportamentais\Command\obj\Debug\net5.0\ref\Command.dll
+C:\src\Padroes comportamentais\Command\obj\Debug\net5.0\Command.pdb
+C:\src\Padroes comportamentais\Command\obj\Debug\net5.0\Command.genruntimeconfig.cache
