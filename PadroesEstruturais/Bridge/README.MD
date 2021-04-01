@@ -32,7 +32,7 @@ Utilize o padrão quando você precisa estender uma classe em diversas dimensõe
 * Princípio de responsabilidade única. Você pode focar na lógica de alto nível na abstração e em detalhes de plataforma na implementação.
 
 ## Contras:
-*Você pode tornar o código mais complicado ao aplicar o padrão em uma classe altamente coesa.
+* Você pode tornar o código mais complicado ao aplicar o padrão em uma classe altamente coesa.
 
 ## Como implementar:
 Veja quais operações o cliente precisa e defina-as na classe abstração base.
